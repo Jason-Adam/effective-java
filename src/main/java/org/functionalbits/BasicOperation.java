@@ -1,6 +1,5 @@
 package org.functionalbits;
 
-// Item 38: Emulate Extensible Enums with Interfaces
 public enum BasicOperation implements Operation {
     PLUS("+") {
         public double apply(double x, double y) {

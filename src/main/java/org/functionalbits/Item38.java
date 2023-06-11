@@ -3,7 +3,8 @@ package org.functionalbits;
 import java.util.Arrays;
 import java.util.Collection;
 
-public class Main {
+// Emulate Extensible Enums With Interfaces
+public class Item38 {
     public static void main(String[] args) {
         double x = Double.parseDouble(args[0]);
         double y = Double.parseDouble(args[1]);
