@@ -1,4 +1,4 @@
-package org.functionalbits;
+package org.functionalbits.item38;
 
 public enum BasicOperation implements Operation {
     PLUS("+") {

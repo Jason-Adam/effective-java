@@ -1,4 +1,4 @@
-package org.functionalbits;
+package org.functionalbits.item38;
 
 public interface Operation {
     double apply(double x, double y);
